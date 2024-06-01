@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { useSearch } from "./useSearch";
-// import { data } from "./data";
 
 function App() {
   const [searchValue, setSearchValue] = useState("");
