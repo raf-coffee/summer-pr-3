@@ -1,3 +1,3 @@
 ## Тестовое задание: frontend
 
-[https://github.com/KosyanMedia/Front-end_TP_test](https://github.com/KosyanMedia/Front-end_TP_test)
+[https://paper.dropbox.com/doc/Frontend-Engineer-GFOYvLYpCLWUJe59Ydfmw](https://paper.dropbox.com/doc/Frontend-Engineer-GFOYvLYpCLWUJe59Ydfmw)
