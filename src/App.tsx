@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useSearch } from "./useSearch";
+import { useSearch } from "./hooks/useSearch";
 
 function App() {
   const [searchValue, setSearchValue] = useState("");

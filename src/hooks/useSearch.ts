@@ -1,4 +1,4 @@
-import { data } from "./data";
+import { data } from "../data";
 
 export const useSearch = (value: string) => {
   if (!value) {
@@ -9,7 +9,8 @@ export const useSearch = (value: string) => {
   return data.filter(
     (item) =>
       item.firstName.toLowerCase().includes(lowerCaseValue) ||
-      item.lastName.includes(lowerCaseValue) ||
-      item.email.includes(lowerCaseValue)
+      item.lastName.toLowerCase().includes(lowerCaseValue) ||
+      item.email.toLowerCase().includes(lowerCaseValue) ||
+      item.jobTitle.toLowerCase().includes(lowerCaseValue)
   );
 };
