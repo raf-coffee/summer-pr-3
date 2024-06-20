@@ -2,7 +2,7 @@
 
 [https://paper.dropbox.com/doc/Frontend-Engineer-GFOYvLYpCLWUJe59Ydfmw](https://paper.dropbox.com/doc/Frontend-Engineer-GFOYvLYpCLWUJe59Ydfmw)
 
-**Ссылка на рабочий проект** - [super-halva-392497.netlify.app/](https://super-halva-392497.netlify.app/)
+**Ссылка на проект** - [super-halva-392497.netlify.app/](https://super-halva-392497.netlify.app/)
 
 ## Описание
 
